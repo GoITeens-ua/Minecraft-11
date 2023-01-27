@@ -127,35 +127,34 @@ _**Сьогодні ми з вами створимо таку нитку, як�
 
 ### **Створимо квадарти**, що вкладені один в одний
 
-| Код       | ![](https://github.com/mikh-maksi/minecraft\_cards2/raw/main/lesson03/img/labirint02.png) |
-| --------- | ----------------------------------------------------------------------------------------- |
-| Результат | ![](https://github.com/mikh-maksi/minecraft\_cards2/raw/main/lesson03/img/labirint08.png) |
-|           |                                                                                           |
+| Код:      | <p><br><img src=".gitbook/assets/73.png" alt=""><br><img src=".gitbook/assets/74.png" alt=""></p> |
+| --------- | ------------------------------------------------------------------------------------------------- |
+| Результат | ![](https://github.com/mikh-maksi/minecraft\_cards2/raw/main/lesson03/img/labirint08.png)         |
+|           |                                                                                                   |
 
 ### Зробимо переходи між рівнями
 
-| Код       | ![](https://github.com/mikh-maksi/minecraft\_cards2/raw/main/lesson03/img/labirint03.png) |
+| Код       | <p><br><img src=".gitbook/assets/75.png" alt=""></p>                                      |
 | --------- | ----------------------------------------------------------------------------------------- |
 | Результат | ![](https://github.com/mikh-maksi/minecraft\_cards2/raw/main/lesson03/img/labirint09.png) |
 |           |                                                                                           |
 
 ### Додамо загородження між рівнями
 
-| Код       | ![](https://github.com/mikh-maksi/minecraft\_cards2/raw/main/lesson03/img/labirint04.png) |
-| --------- | ----------------------------------------------------------------------------------------- |
-| Результат | ![](https://github.com/mikh-maksi/minecraft\_cards2/raw/main/lesson03/img/labirint10.png) |
-|           |                                                                                           |
+| Код:       | <p><br><img src=".gitbook/assets/76.png" alt=""></p>                                      |
+| ---------- | ----------------------------------------------------------------------------------------- |
+| Результат: | ![](https://github.com/mikh-maksi/minecraft\_cards2/raw/main/lesson03/img/labirint10.png) |
 
 ### **Додамо керуючі блоки**
 
-| **Код**       | ![](https://github.com/mikh-maksi/minecraft\_cards2/raw/main/lesson03/img/labirint05.png) |
+| **Код**       | ![](.gitbook/assets/77.png)                                                               |
 | ------------- | ----------------------------------------------------------------------------------------- |
 | **Результат** | ![](https://github.com/mikh-maksi/minecraft\_cards2/raw/main/lesson03/img/labirint11.png) |
 |               |                                                                                           |
 
 Реалізуємо **прохід агенту** лабіринтом із залишанням за собою сліду з редстоуну.
 
-| Код       | ![](https://github.com/mikh-maksi/minecraft\_cards2/raw/main/lesson03/img/labirint06.png) |
+| Код       | <p><br><img src=".gitbook/assets/78.png" alt=""></p>                                      |
 | --------- | ----------------------------------------------------------------------------------------- |
 | Результат | ![](https://github.com/mikh-maksi/minecraft\_cards2/raw/main/lesson03/img/labirint12.gif) |
 |           |                                                                                           |
