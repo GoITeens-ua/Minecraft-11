@@ -164,7 +164,6 @@ _**Сьогодні ми з вами створимо таку нитку, як�
 | Код       | ![](https://raw.githubusercontent.com/mikh-maksi/minecraft\_cards2/main/lesson03/img/labirint14.png) |
 | --------- | ---------------------------------------------------------------------------------------------------- |
 | Результат | ![](https://github.com/mikh-maksi/minecraft\_cards2/raw/main/lesson03/img/labirint13.gif)            |
-|           |                                                                                                      |
 
 ### Творчі завдання
 
